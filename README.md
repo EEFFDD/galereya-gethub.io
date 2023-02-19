@@ -1,2 +1,2 @@
-# galereyagethub.io
+# galereya.gethub.io
 я яйцо
